@@ -1,5 +1,5 @@
-public class Cat {
-    public static void say() {
+public class Cat extends Animal {
+    public void say() {
         System.out.println("야옹");
     }
 }
