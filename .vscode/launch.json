@@ -6,6 +6,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch string",
+            "request": "launch",
+            "mainClass": "string"
+        },
+        {
+            "type": "java",
             "name": "Launch Application",
             "request": "launch",
             "mainClass": "Application",
