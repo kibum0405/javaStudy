@@ -71,6 +71,10 @@
 ![Lambda Chapter  1  결과](https://user-images.githubusercontent.com/59447401/143512617-5b618bc1-ae6a-4440-ab5a-7c8bf48844c6.png)
 ![Lambda Chapter  5 결과](https://user-images.githubusercontent.com/59447401/143515114-ecbd6ad1-2fab-4e59-b68a-4319563f8c3b.png)
 ![Lambda Chapter  6 결과](https://user-images.githubusercontent.com/59447401/143517964-8a8a8dbb-812c-45b1-8a69-75ac834ae1d2.png)
+![sequence diagram](https://user-images.githubusercontent.com/59447401/209071392-f5aacf25-a1df-4d1f-82cd-95be2a803a57.png)
+![sequence diagram code](https://user-images.githubusercontent.com/59447401/209071399-03988097-b25c-46c7-a905-0feef84c7c5d.png)
+
+
 
 
 
